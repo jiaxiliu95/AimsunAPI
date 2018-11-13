@@ -1,5 +1,7 @@
 from AAPI import *
 
+print('hello')
+
 def AAPILoad():
 	AKIPrintString( "AAPILoad" )
 	return 0
